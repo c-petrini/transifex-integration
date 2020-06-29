@@ -1,1 +1,0 @@
-Primo, come stai?

@@ -1,1 +1,0 @@
-Secondo, come stai?
