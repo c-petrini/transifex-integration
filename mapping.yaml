@@ -1,7 +1,7 @@
 filters:
   - filter_type: dir
     source_file_extension: md
-    source_file_dir: engineering
+    source_file_dir: engineering/en/
     file_format: GITHUBMARKDOWN
     source_language: en
     translation_files_expression: engineering/<lang>/
