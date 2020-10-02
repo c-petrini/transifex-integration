@@ -5,3 +5,5 @@ filters:
     file_format: GITHUBMARKDOWN
     source_language: en
     translation_files_expression: engineering/<lang>/
+settings:
+  pr_branch_name: test/<lang>
