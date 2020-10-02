@@ -1,3 +1,3 @@
 # New title
 
-It's friday
+It's finally friday 
